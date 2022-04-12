@@ -36,18 +36,18 @@ li {
   border-radius: 6px;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  padding: .25em 1rem;
 }
 
 li > img {
-  width: 75%;
-  margin: .25em 1rem;
+  width: 100;
+  padding: 1rem 3rem;
 }
 
-li h2 {
+h2 {
   font-family: Oswald, sans-serif;
-  font-size: 1.7rem;
+  font-size: 2rem;
   color: #6f00e7;
   margin: 0;
   padding: 0;
@@ -55,8 +55,8 @@ li h2 {
 
 li p {
   text-align: center;
-  margin-bottom: 1rem;
-  padding: 0;
+  margin: 0;
+  padding: .5em 1rem;
 }
 
 .buttons .cart {
@@ -69,6 +69,7 @@ li p {
 }
 
 div {
+  width: 100%;
   align-content: space-between;
   justify-content: center;
 }
