@@ -61,7 +61,7 @@ li p {
 
 .buttons .cart {
   font-family: Oswald, sans-serif;
-  font-size: 1rem;
+  font-size: .5rem;
   color: #fff;
   text-decoration: none;
   background-color: #6f00e7;
@@ -73,7 +73,7 @@ li p {
 div {
   width: 100%;
   display: flex;
-  align-content: space-between;
+  align-content: center;
   justify-content: space-between;
 }
 
