@@ -65,10 +65,11 @@ li p {
   background-color: #6f00e7;
   border-width: 3px;
   border-radius: 3em;
-  padding: .25em;
+  padding: .5em;
 }
 
 div {
+  display: flex;
   align-content: space-between;
   margin: 0;
   padding: 0;
