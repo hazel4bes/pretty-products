@@ -67,8 +67,8 @@ li p {
 }
 
 div {
-  display: flex;
   align-items: flex-start;
+  display: flex;
   justify-content: space-between;
   margin-bottom: 1rem;
 }
