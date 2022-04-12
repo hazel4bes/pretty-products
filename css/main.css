@@ -57,7 +57,6 @@ li p {
 
 .right {
   display: flex;
-  justify-content: flex-end;
 }
 
 .buttons .cart {
