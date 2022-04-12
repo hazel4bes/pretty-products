@@ -44,7 +44,7 @@ li {
 
 li > img {
   width: 75%;
-  margin: .25em 1rem;
+  margin: .25em 1rem .5rem 1rem;
 }
 
 li h2 {
@@ -70,7 +70,7 @@ li p {
   background-color: #6f00e7;
   border-width: 3px;
   border-radius: 3em;
-  padding: .25em .5em;
+  padding: .25em;
 }
 
 .buttons {
@@ -78,5 +78,5 @@ li p {
   display: flex;
   align-content: center;
   justify-content: space-between;
-  margin-bottom: 1rem;
+  margin-bottom: .5rem;
 }
