@@ -43,15 +43,18 @@ li h2 {
   font-family: Oswald, sans-serif;
   font-size: 2rem;
   color: #6f00e7;
+  padding: 0;
 }
 
 li p {
   text-align: center;
+  padding: 0;
 }
 
 .buttons {
   display: flex;
   justify-content: space-between;
+  padding: 0;
 }
 
 .right {
