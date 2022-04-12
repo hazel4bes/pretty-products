@@ -70,7 +70,7 @@ li p {
   padding: .25em;
 }
 
-div {
+.buttons {
   width: 100%;
   display: flex;
   align-content: center;
