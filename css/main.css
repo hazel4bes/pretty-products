@@ -52,7 +52,7 @@ li h2 {
 
 li p {
   text-align: center;
-  margin: 0 0 1rem 0;
+  margin-bottom: 1rem;
 }
 
 .buttons .cart {
@@ -67,4 +67,5 @@ li p {
 .buttons {
   display: flex;
   justify-content: space-between;
+  margin-bottom: 1rem;
 }
