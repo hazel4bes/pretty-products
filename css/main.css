@@ -40,7 +40,7 @@ li {
 
 li > img {
   width: 100%;
-  padding: .5em;
+  margin: .25em 1rem;
 }
 
 li h2 {
