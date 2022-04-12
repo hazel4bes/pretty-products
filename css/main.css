@@ -65,3 +65,9 @@ li p {
   border-width: 3px;
   border-radius: 3em;
 }
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
