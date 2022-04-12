@@ -17,6 +17,7 @@ body {
 
 main {
   display: block;
+  padding: 1rem;
 }
 
 ul {
@@ -38,7 +39,8 @@ li {
 }
 
 li > img {
-  width: 100%
+  width: 100%;
+
 }
 
 li h2 {
@@ -50,13 +52,7 @@ li h2 {
 
 li p {
   text-align: center;
-}
-
-.buttons {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-around;
+  margin: 0;
 }
 
 .right {
@@ -70,4 +66,11 @@ li p {
   background-color: #6f00e7;
   border-width: 3px;
   border-radius: 3em;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
