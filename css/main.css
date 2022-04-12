@@ -30,11 +30,13 @@ ul {
 
 li {
   border-style: solid;
+  margin: 1.5rem;
   border-width: 3px;
   border-color: #987ffa;
   border-radius: 6px;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 li h2 {
