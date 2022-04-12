@@ -37,6 +37,10 @@ li {
   align-items: center;
 }
 
+li > img {
+  width: 100%
+}
+
 li h2 {
   font-family: Oswald, sans-serif;
   font-size: 2rem;
